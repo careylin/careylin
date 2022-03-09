@@ -5,7 +5,7 @@ I design systems at **Alltrails** and I love my [corgis](https://www.instagram.c
 ---
 
 ### 🎨  
-[Alltrails](https://github.com/alltrails) - Mar 2018—Feb 2022
+[Alltrails](https://github.com/alltrails) - Feb 2022—now
 
 [Rover](https://github.com/roverdotcom) - Mar 2018—Feb 2022
 
