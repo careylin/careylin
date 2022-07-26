@@ -1,6 +1,6 @@
 ## Hi there 👋   
 
-I design systems at **Alltrails** and I love my [corgis](https://www.instagram.com/mochiandbmo/)
+I design systems at **Alltrails**
 
 ---
 
