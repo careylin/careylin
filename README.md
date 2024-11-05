@@ -1,6 +1,6 @@
 ## Hi there 👋   
 
-I design systems at **Alltrails**
+I design systems at **AllTrails**
 
 ---
 
